@@ -1,0 +1,6 @@
+D:\Study\C#\LIBRARIES\cs_library\EasySql\EasySql\bin\Debug\EasySql.dll
+D:\Study\C#\LIBRARIES\cs_library\EasySql\EasySql\bin\Debug\EasySql.pdb
+D:\Study\C#\LIBRARIES\cs_library\EasySql\EasySql\obj\Debug\EasySql.csprojAssemblyReference.cache
+D:\Study\C#\LIBRARIES\cs_library\EasySql\EasySql\obj\Debug\EasySql.csproj.CoreCompileInputs.cache
+D:\Study\C#\LIBRARIES\cs_library\EasySql\EasySql\obj\Debug\EasySql.dll
+D:\Study\C#\LIBRARIES\cs_library\EasySql\EasySql\obj\Debug\EasySql.pdb
